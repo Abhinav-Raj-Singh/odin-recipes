@@ -35,3 +35,8 @@ a:hover{
    text-decoration: underline;
    
 }
+
+.bottom img{
+   display: block;
+   border-radius: 12px;
+}
