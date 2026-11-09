@@ -39,4 +39,6 @@ a:hover{
 .bottom img{
    display: inline;
    border-radius: 12px;
+   position: relative;
+   left: 40px
 }
