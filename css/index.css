@@ -21,3 +21,16 @@ a{
 a:hover{
     text-decoration: underline;
 }
+
+.hh2{
+    font-size: 40px;
+    position: relative;
+    left: 10px;
+}
+
+.welcome{
+    font-size: 25px;
+    position: relative;
+    left: 30px;
+    color: rgb(105, 116, 8);
+}
