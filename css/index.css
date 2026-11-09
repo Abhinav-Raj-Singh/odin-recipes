@@ -65,3 +65,10 @@ a:hover{
     color: rgb(98, 50, 110);
 }
 
+.kk_i img{
+    
+    border-radius: 20px;
+    position: relative;
+    left: 40px;
+    bottom: 50px;
+}
