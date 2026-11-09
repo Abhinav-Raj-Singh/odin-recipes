@@ -89,3 +89,10 @@ a:hover{
     font-size: 18px;
     color: rgb(98, 50, 110);
 }
+
+.sptp img{
+    border-radius: 20px;
+    position: relative;
+    left: 40px;
+    bottom: 130px;
+}
