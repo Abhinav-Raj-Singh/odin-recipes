@@ -65,11 +65,24 @@ a:hover{
    bottom: 110px;
    left: 40px;
    border-radius: 12px;
+   
 
 }
 
 #second{
    position: relative;
    bottom: -60px;
-   left: 301px;
+   left: 300px;
+   font-size: 22px;
+
+}
+
+#second_d{
+   position: relative;
+   bottom: 290px;
+   left: 310px;
+   font-size: 15px;
+   color: rgb(122, 102, 108);
+   
+
 }
