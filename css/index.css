@@ -55,3 +55,13 @@ a:hover{
     left: 60px;
     bottom: 230px;
 }
+
+.pbm_i_t_d{
+    display: inline;
+    position: relative;
+    left: 375px;
+    bottom: 230px;
+    font-size: 18px;
+    color: rgb(98, 50, 110);
+}
+
