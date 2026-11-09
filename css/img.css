@@ -97,4 +97,15 @@ a:hover{
    position: relative;
    left: 310px;
    bottom: 220px;
+   font-size: 22px;
+}
+
+.first_b_pbm_t_d{
+   display: inline;
+   position: relative;
+   left: 320px;
+   bottom: 230px;
+   font-size: 15px;
+   color: rgb(122, 102, 108);
+
 }
