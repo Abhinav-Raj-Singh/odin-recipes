@@ -166,3 +166,11 @@ a:hover{
    bottom: 60px;
    
 }
+
+.sp_second_img_t{
+   display: inline;
+   position: relative;
+   bottom: 220px;
+   left: 100px;
+   font-size: 22px;
+}
