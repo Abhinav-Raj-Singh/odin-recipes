@@ -20,7 +20,7 @@
 ## Credits & Acknowledgments
 
    #### - Recipe content generated with the assistance of Google Gemini.
-   #### - kk.jpg is taken from pexels and created by Gaurav Kumar.
+   #### - kk.jpg is <a href="https://www.vecteezy.com/free-photos/indian-sweets">Indian Sweets Stock photos by Vecteezy</a>
    #### - logo.svg is taken from The Odin Project.
    #### - pbm.jpg is taken from pexels and created by Anil Sharma.
    #### - sptp.jpg is taken from pexels and created by Praful Das.
