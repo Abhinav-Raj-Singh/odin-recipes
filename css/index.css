@@ -72,3 +72,11 @@ a:hover{
     left: 40px;
     bottom: 50px;
 }
+
+.kk_i_t{
+    display: inline;
+    font-size: 25px;
+    position: relative;
+    left: 60px;
+    bottom: 250px;
+}
