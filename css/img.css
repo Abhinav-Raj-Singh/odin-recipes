@@ -157,3 +157,12 @@ a:hover{
    color: rgb(122, 102, 108);
    left: 340px
 }
+
+.sp_second_img img{
+   display: inline;
+   border-radius: 12px;
+   position: relative;
+   left: 40px;
+   bottom: 60px;
+   
+}
