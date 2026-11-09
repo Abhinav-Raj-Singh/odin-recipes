@@ -50,3 +50,11 @@ a:hover{
    left: 300px;
    font-size: 22px;
 }
+
+#first_d{
+   position: relative;
+   bottom: 230px;
+   left: 310px;
+   font-size: 15px;
+   color: rgb(122, 102, 108);
+}
