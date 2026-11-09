@@ -40,3 +40,10 @@ a:hover{
     position: relative;
     left: 10px;
 }
+
+.pbm_i img{
+    border-radius: 20px;
+    position: relative;
+    left: 40px;
+
+}
