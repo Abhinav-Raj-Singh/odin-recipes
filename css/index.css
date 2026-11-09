@@ -104,3 +104,12 @@ a:hover{
     left: 60px;
     bottom: 330px;
 }
+
+.sptp_t_d{
+    
+    position: relative;
+    left: 375px;
+    bottom: 320px;
+    font-size: 18px;
+    color: rgb(98, 50, 110);
+}
