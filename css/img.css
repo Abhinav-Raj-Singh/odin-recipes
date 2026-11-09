@@ -109,3 +109,12 @@ a:hover{
    color: rgb(122, 102, 108);
 
 }
+
+#second_b_kk img{
+   border-radius: 12px;
+   position: relative;
+   left: 40px;
+   bottom: 120px;
+
+
+}
