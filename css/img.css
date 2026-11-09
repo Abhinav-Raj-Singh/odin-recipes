@@ -58,3 +58,12 @@ a:hover{
    font-size: 15px;
    color: rgb(122, 102, 108);
 }
+
+#second_img img{
+   display: inline;
+   position: relative;
+   bottom: 110px;
+   left: 40px;
+   border-radius: 12px;
+
+}
