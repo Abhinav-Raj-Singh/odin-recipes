@@ -107,7 +107,7 @@ a:hover{
    bottom: 230px;
    font-size: 15px;
    color: rgb(122, 102, 108);
-
+   
 }
 
 #second_b_kk img{
@@ -115,6 +115,21 @@ a:hover{
    position: relative;
    left: 40px;
    bottom: 120px;
+}
 
+#first_kk_t{
+   display: inline;
+   position: relative;
+   bottom: 280px;
+   left: 80px;
+   font-size: 22px;
+}
 
+.second_kk_t_d{
+   display: inline;
+   position: relative;
+   font-size: 15px;
+   bottom: 290px;
+   color: rgb(122, 102, 108);
+   left: 320px
 }
