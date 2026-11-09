@@ -34,3 +34,9 @@ a:hover{
     left: 30px;
     color: rgb(122, 102, 108);
 }
+
+.opr{
+    font-size: 40px;
+    position: relative;
+    left: 10px;
+}
