@@ -6,3 +6,10 @@
     color: rgb(221, 169, 24);
     
 }
+
+.logo{
+    display: block;
+    width: 88px;
+    margin-left: auto;
+    margin-right: auto;
+}
