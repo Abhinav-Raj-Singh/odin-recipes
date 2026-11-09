@@ -140,3 +140,11 @@ a:hover{
    position: relative;
    left: 40px;
 }
+
+.sp_first_img_t{
+   display: inline;
+   position: relative;
+   bottom: 130px;
+   left: 100px;
+   font-size: 22px;
+}
