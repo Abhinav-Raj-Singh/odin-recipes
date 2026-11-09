@@ -1,0 +1,115 @@
+.hh1{
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 50px;
+    color: rgb(221, 169, 24);
+    
+}
+
+.logo{
+    display: block;
+    width: 88px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+.hh2{
+    font-size: 40px;
+    position: relative;
+    left: 10px;
+}
+
+.welcome{
+    font-size: 25px;
+    position: relative;
+    left: 30px;
+    color: rgb(122, 102, 108);
+}
+
+.opr{
+    font-size: 40px;
+    position: relative;
+    left: 10px;
+}
+
+.pbm_i img{
+    border-radius: 20px;
+    position: relative;
+    left: 40px;
+
+}
+
+.pbm_i_t{
+    display: inline;
+    font-size: 25px;
+    position: relative;
+    left: 60px;
+    bottom: 230px;
+}
+
+.pbm_i_t_d{
+    display: inline;
+    position: relative;
+    left: 375px;
+    bottom: 230px;
+    font-size: 18px;
+    color: rgb(98, 50, 110);
+}
+
+.kk_i img{
+    
+    border-radius: 20px;
+    position: relative;
+    left: 40px;
+    bottom: 50px;
+}
+
+.kk_i_t{
+    display: inline;
+    font-size: 25px;
+    position: relative;
+    left: 60px;
+    bottom: 250px;
+}
+
+.kk_i_t_d{
+    
+    position: relative;
+    left: 375px;
+    bottom: 245px;
+    font-size: 18px;
+    color: rgb(98, 50, 110);
+}
+
+.sptp img{
+    border-radius: 20px;
+    position: relative;
+    left: 40px;
+    bottom: 130px;
+}
+
+.sptp_t{
+    display: inline;
+    font-size: 25px;
+    position: relative;
+    left: 60px;
+    bottom: 330px;
+}
+
+.sptp_t_d{
+    
+    position: relative;
+    left: 375px;
+    bottom: 320px;
+    font-size: 18px;
+    color: rgb(98, 50, 110);
+}
