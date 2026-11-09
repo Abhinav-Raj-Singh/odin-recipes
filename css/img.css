@@ -86,3 +86,9 @@ a:hover{
    
 
 }
+
+#first_b_pbm img{
+   border-radius: 12px;
+   position: relative;
+   left: 40px;
+}
