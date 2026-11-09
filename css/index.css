@@ -96,3 +96,11 @@ a:hover{
     left: 40px;
     bottom: 130px;
 }
+
+.sptp_t{
+    display: inline;
+    font-size: 25px;
+    position: relative;
+    left: 60px;
+    bottom: 330px;
+}
