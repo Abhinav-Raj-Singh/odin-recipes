@@ -155,7 +155,7 @@ a:hover{
    font-size: 15px;
    bottom: 140px;
    color: rgb(122, 102, 108);
-   left: 340px
+   left: 340px;
 }
 
 .sp_second_img img{
@@ -173,4 +173,13 @@ a:hover{
    bottom: 220px;
    left: 100px;
    font-size: 22px;
+}
+
+.sp_second_img_t_d{
+   display: inline;
+   position: relative;
+   font-size: 15px;
+   bottom: 225px;
+   color: rgb(122, 102, 108);
+   left: 340px;
 }
