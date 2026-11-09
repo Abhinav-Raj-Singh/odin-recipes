@@ -37,6 +37,6 @@ a:hover{
 }
 
 .bottom img{
-   display: block;
+   display: inline;
    border-radius: 12px;
 }
