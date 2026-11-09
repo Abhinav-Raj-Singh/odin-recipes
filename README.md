@@ -24,4 +24,4 @@
    #### - logo.svg is taken from The Odin Project.
    #### - pbm.jpg is taken from pexels and created by Anil Sharma.
    #### - sptp.jpg is taken from pexels and created by Praful Das.
-
+   #### - design layout and visual inspiration drawn from Epicurious.
